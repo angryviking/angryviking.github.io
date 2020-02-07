@@ -12,7 +12,6 @@ var config = {
                  <div><img src="images/rhce.png" width="200" height="100" alt="Red Hat Engineer"></div> \
                  <div><img src="images/rhcsa.png" width="200" height="100" alt="Red Hat System Adminsitrator"></div> \
                  <div><img src="images/ansible.png" width="200" height="100" alt="Ansible Specialist"></div> \
-	         <div><img src="images/ansible.png" width="200" height="100" alt="Ansible Specialist"></div> \
 	         <div><img src="images/SecurityPlus Logo Certified CE.png" width="100" height="100" alt="Security Plus"></div> \
 	         <div><img src="images/LinuxPlus Logo Certified.png" width="100" height="100" alt="Linux Plus"></div> \
              </div>',
