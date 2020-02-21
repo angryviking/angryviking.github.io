@@ -23,43 +23,57 @@ var config = {
             description: '<h4>Skills</h4> \
                           <div style="display:inline-block;width:100%;padding:0;"> \
                               <div style="padding:0;float:left;width:75%;"> \
-                                  <progress style="width:100%;" value="80" max="100"></progress> \
+                                  <div style="background:#EEE;padding:2px;border-radius:15px;width:100%"> \
+                                      <div style="background:black;width:80%;border-radius:inherit;padding:5px 0 5px 10px;"></div> \
+                                  </div> \
                               </div> \
                               <div style="padding:0;float:right;">Linux</div> \
                           </div> \
                           <div style="display:inline-block;width:100%;padding:0;"> \
                               <div style="padding:0;float:left;width:75%;"> \
-                                  <progress style="width:100%;" value="80" max="100"></progress> \
+                                  <div style="background:#EEE;padding:2px;border-radius:15px;width:100%"> \
+                                      <div style="background:black;width:80%;border-radius:inherit;padding:5px 0 5px 10px;"></div> \
+                                  </div> \
                               </div> \
                               <div style="padding:0;float:right;">Shell Scripting</div> \
                           </div> \
                           <div style="display:inline-block;width:100%;padding:0;"> \
                               <div style="padding:0;float:left;width:75%;"> \
-                                  <progress style="width:100%;" value="75" max="100"></progress> \
+                                  <div style="background:#EEE;padding:2px;border-radius:15px;width:100%"> \
+                                      <div style="background:black;width:75%;border-radius:inherit;padding:5px 0 5px 10px;"></div> \
+                                  </div> \
                               </div> \
                               <div style="padding:0;float:right;">Automation</div> \
                           </div> \
                           <div style="display:inline-block;width:100%;padding:0;"> \
                               <div style="padding:0;float:left;width:75%;"> \
-                                  <progress style="width:100%;" value="75" max="100"></progress> \
+                                  <div style="background:#EEE;padding:2px;border-radius:15px;width:100%"> \
+                                      <div style="background:black;width:75%;border-radius:inherit;padding:5px 0 5px 10px;"></div> \
+                                   </div> \
                               </div> \
                               <div style="padding:0;float:right;">Docker</div> \
                           </div> \
                           <div style="display:inline-block;width:100%;padding:0;"> \
                               <div style="padding:0;float:left;width:75%;"> \
-                                  <progress style="width:100%;" value="60" max="100"></progress> \
+                                  <div style="background:#EEE;padding:2px;border-radius:15px;width:100%"> \
+                                      <div style="background:black;width:60%;border-radius:inherit;padding:5px 0 5px 10px;"></div> \
+                                  </div> \
                               </div> \
                               <div style="padding:0;float:right;">VMWare</div> \
                           </div> \
                           <div style="display:inline-block;width:100%;padding:0;"> \
                               <div style="padding:0;float:left;width:75%;"> \
-                                  <progress style="width:100%;" value="50" max="100"></progress> \
+                                  <div style="background:#EEE;padding:2px;border-radius:15px;width:100%"> \
+                                      <div style="background:black;width:50%;border-radius:inherit;padding:5px 0 5px 10px;"></div> \
+                                  </div> \
                               </div> \
                               <div style="padding:0;float:right;">AWS</div> \
                           </div> \
                           <div style="display:inline-block;width:100%;padding:0;"> \
                               <div style="padding:0;float:left;width:75%;"> \
-                                  <progress style="width:100%;" value="30" max="100"></progress> \
+                                  <div style="background:#EEE;padding:2px;border-radius:15px;width:100%"> \
+                                      <div style="background:black;width:30%;border-radius:inherit;padding:5px 0 5px 10px;"></div> \
+                                  </div> \
                               </div> \
                               <div style="padding:0;float:right;">Kubernetes</div> \
                           </div> \
