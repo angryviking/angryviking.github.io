@@ -48,7 +48,7 @@ var config = {
                           <div style="display:inline-block;width:100%;padding:0;"> \
                               <div style="padding:0;float:left;width:75%;"> \
                                   <div style="background:#EEE;padding:2px;border-radius:15px;width:100%"> \
-                                      <div style="background:black;width:75%;border-radius:inherit;padding:5px 0 5px 10px;"></div> \
+                                      <div style="background:black;width:70%;border-radius:inherit;padding:5px 0 5px 10px;"></div> \
                                    </div> \
                               </div> \
                               <div style="padding:0;float:right;">Docker</div> \
@@ -72,10 +72,10 @@ var config = {
                           <div style="display:inline-block;width:100%;padding:0;"> \
                               <div style="padding:0;float:left;width:75%;"> \
                                   <div style="background:#EEE;padding:2px;border-radius:15px;width:100%"> \
-                                      <div style="background:black;width:30%;border-radius:inherit;padding:5px 0 5px 10px;"></div> \
+                                      <div style="background:black;width:50%;border-radius:inherit;padding:5px 0 5px 10px;"></div> \
                                   </div> \
                               </div> \
-                              <div style="padding:0;float:right;">Kubernetes</div> \
+                              <div style="padding:0;float:right;">DevOps</div> \
                           </div> \
                           <h4>Certifications</h4> \
                           <div style="display:inline-block;width:100%;padding:0;"> \
@@ -140,7 +140,7 @@ var config = {
                           <li>Engineered, deployed, and managed several big data Elasticsearch clusters on different networks</li> \
                           <li>Built Docker containers and deployed containers in Docker swarms on multiple networks</li> \
                           <li>Migrated systems and images between VirtualBox, VMWare, and AWS</li> \
-                          <li>Researched new technologies and solutions to interesting data problems</li>',
+                          <li>Worked on CI/CD pipeline utilizing Bamboo, Artifactory, Rancher, Docker, and more</li>',
             location: {
 		        center: [-82.45704, 27.95081],
 		        zoom: 16.00,
@@ -165,7 +165,7 @@ var config = {
             title: '<div style="display:flex;justify-content:space-between;width:100%;padding:0;"> \
                         <div style="padding:0;">Booz Allen Hamilton</div> \
                         <div style="padding:0;">MacDill AFB, FL</div> \
-                        <div style="padding:0;">10/2016 - 04/2017</div> \
+                        <div style="padding:0;">11/2016 - 04/2017</div> \
                     </div>',
             image: 'images/boozallenhamilton.svg',
             description: '<h5>Senior Systems Engineer</h5> \
@@ -197,7 +197,7 @@ var config = {
             title: '<div style="display:flex;justify-content:space-between;width:100%;padding:0;"> \
                         <div style="padding:0;">BAE Systems</div> \
                         <div style="padding:0;">Stuttgart, Germany/MacDill AFB, FL</div> \
-                        <div style="padding:0;">10/2011 - 10/2016</div> \
+                        <div style="padding:0;">05/2011 - 11/2016</div> \
                     </div>',
             image: 'images/baesystems.svg',
             description: '<h5>Senior Systems Engineer</h5> \
