@@ -23,15 +23,15 @@ var config = {
             description: '<h4>Skills</h4> \
                           <div style="display:inline-block;width:100%;padding:0;"> \
                               <div style="padding:0;float:left;width:75%;"> \
-                                  <div style="background:#EEE;padding:2px;border-radius:15px;width:100%"> \
-                                      <div style="background:black;width:80%;border-radius:inherit;padding:5px 0 5px 10px;"></div> \
+                                  <div style="background:#66c2a5;padding:2px;border-radius:15px;width:100%"> \
+                                      <div style="background:black;width:85%;border-radius:inherit;padding:5px 0 5px 10px;"></div> \
                                   </div> \
                               </div> \
                               <div style="padding:0;float:right;">Linux</div> \
                           </div> \
                           <div style="display:inline-block;width:100%;padding:0;"> \
                               <div style="padding:0;float:left;width:75%;"> \
-                                  <div style="background:#EEE;padding:2px;border-radius:15px;width:100%"> \
+                                  <div style="background:#66c2a5;padding:2px;border-radius:15px;width:100%"> \
                                       <div style="background:black;width:80%;border-radius:inherit;padding:5px 0 5px 10px;"></div> \
                                   </div> \
                               </div> \
@@ -39,7 +39,7 @@ var config = {
                           </div> \
                           <div style="display:inline-block;width:100%;padding:0;"> \
                               <div style="padding:0;float:left;width:75%;"> \
-                                  <div style="background:#EEE;padding:2px;border-radius:15px;width:100%"> \
+                                  <div style="background:#66c2a5;padding:2px;border-radius:15px;width:100%"> \
                                       <div style="background:black;width:75%;border-radius:inherit;padding:5px 0 5px 10px;"></div> \
                                   </div> \
                               </div> \
@@ -47,7 +47,7 @@ var config = {
                           </div> \
                           <div style="display:inline-block;width:100%;padding:0;"> \
                               <div style="padding:0;float:left;width:75%;"> \
-                                  <div style="background:#EEE;padding:2px;border-radius:15px;width:100%"> \
+                                  <div style="background:#66c2a5;padding:2px;border-radius:15px;width:100%"> \
                                       <div style="background:black;width:70%;border-radius:inherit;padding:5px 0 5px 10px;"></div> \
                                    </div> \
                               </div> \
@@ -55,7 +55,7 @@ var config = {
                           </div> \
                           <div style="display:inline-block;width:100%;padding:0;"> \
                               <div style="padding:0;float:left;width:75%;"> \
-                                  <div style="background:#EEE;padding:2px;border-radius:15px;width:100%"> \
+                                  <div style="background:#66c2a5;padding:2px;border-radius:15px;width:100%"> \
                                       <div style="background:black;width:60%;border-radius:inherit;padding:5px 0 5px 10px;"></div> \
                                   </div> \
                               </div> \
@@ -63,7 +63,7 @@ var config = {
                           </div> \
                           <div style="display:inline-block;width:100%;padding:0;"> \
                               <div style="padding:0;float:left;width:75%;"> \
-                                  <div style="background:#EEE;padding:2px;border-radius:15px;width:100%"> \
+                                  <div style="background:#66c2a5;padding:2px;border-radius:15px;width:100%"> \
                                       <div style="background:black;width:50%;border-radius:inherit;padding:5px 0 5px 10px;"></div> \
                                   </div> \
                               </div> \
@@ -71,7 +71,7 @@ var config = {
                           </div> \
                           <div style="display:inline-block;width:100%;padding:0;"> \
                               <div style="padding:0;float:left;width:75%;"> \
-                                  <div style="background:#EEE;padding:2px;border-radius:15px;width:100%"> \
+                                  <div style="background:#66c2a5;padding:2px;border-radius:15px;width:100%"> \
                                       <div style="background:black;width:50%;border-radius:inherit;padding:5px 0 5px 10px;"></div> \
                                   </div> \
                               </div> \
