@@ -80,7 +80,7 @@ var config = {
                           <h4>Certifications</h4> \
                           <div style="display:inline-block;width:100%;padding:0;"> \
                               <div style="padding:0;"> \
-                                  <a target="_blank" href="https://certified.elastic.co/20e22316-b334-40b6-99dd-5cbbff701ee8#gs.98r51n" \
+                                  <a target="_blank" href="https://certified.elastic.co/20e22316-b334-40b6-99dd-5cbbff701ee8#gs.98r51n"> \
                                       Elasticsearch Certified Engineer \
                                   </a></div> \
                               <div style="padding:0;"> \
