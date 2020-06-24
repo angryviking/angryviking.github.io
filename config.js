@@ -79,7 +79,10 @@ var config = {
                           </div> \
                           <h4>Certifications</h4> \
                           <div style="display:inline-block;width:100%;padding:0;"> \
-                              <div style="padding:0;">Elasticsearch Certified Engineer</div> \
+                              <div style="padding:0;"> \
+                                  <a target="_blank" href="https://certified.elastic.co/20e22316-b334-40b6-99dd-5cbbff701ee8#gs.98r51n" \
+                                      Elasticsearch Certified Engineer \
+                                  </a></div> \
                               <div style="padding:0;"> \
                                   <a target="_blank" href="https://www.redhat.com/rhtapps/services/certifications/badge/verify/2H4ASSBQPCX73FHQQTCMOHBWX4AEQU3CUPSQX2KSDXT6RW46LQ34UFHA6EGV4MX6OEQWWNEDUIWXWPUWTPNOZCAXTQD32BJ2PLFPHS3STVWDCMJUD3KGSZYJTPS2YGTCOKOWYMJRGQPNI2LHBGN6LLA2MI======"> \
                                       Red Hat Certified Specialist in Ansible Automation \
