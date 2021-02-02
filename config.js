@@ -1,5 +1,5 @@
 var config = {
-    style: 'mapbox://styles/hannaman72/ckk2vh6ha3udi17mpcwxlewvv',
+    style: 'mapbox://styles/hannaman72/ckk2vhqpo23ub17mjwn7v5lky',
     accessToken: 'pk.eyJ1IjoiaGFubmFtYW43MiIsImEiOiJjamdnajQ2NTMzMm1pMnFtcTdyem1iemFoIn0.ix2-5RYo-E_pDqDl7pI3KA',
     showMarkers: false,
     theme: 'light',
