@@ -8,10 +8,6 @@ var config = {
     subtitle: 'Linux Engineer',
     byline: 'Industry certified Linux engineer with over 20 years experience working in DoD cleared environments.',
     footer: '<div style="display:flex;justify-content:space-around;width:100%;padding:0;"> \
-                 <div><img src="images/ece.png" width="100" height="100" alt="Elasticsearch Engineer"></div> \
-                 <div><img src="images/rhce.png" width="200" height="100" alt="Red Hat Engineer"></div> \
-                 <div><img src="images/rhcsa.png" width="200" height="100" alt="Red Hat System Adminsitrator"></div> \
-                 <div><img src="images/ansible.png" width="200" height="100" alt="Ansible Specialist"></div> \
 	         <div><img src="images/securityplus.png" width="100" height="100" alt="Security Plus"></div> \
 	         <div><img src="images/linuxplus.png" width="100" height="100" alt="Linux Plus"></div> \
              </div>',
@@ -79,22 +75,6 @@ var config = {
                           </div> \
                           <h4>Certifications</h4> \
                           <div style="display:inline-block;width:100%;padding:0;"> \
-                              <div style="padding:0;"> \
-                                  <a target="_blank" href="https://certified.elastic.co/20e22316-b334-40b6-99dd-5cbbff701ee8#gs.98r51n"> \
-                                      Elasticsearch Certified Engineer \
-                                  </a></div> \
-                              <div style="padding:0;"> \
-                                  <a target="_blank" href="https://www.redhat.com/rhtapps/services/certifications/badge/verify/2H4ASSBQPCX73FHQQTCMOHBWX4AEQU3CUPSQX2KSDXT6RW46LQ34UFHA6EGV4MX6OEQWWNEDUIWXWPUWTPNOZCAXTQD32BJ2PLFPHS3STVWDCMJUD3KGSZYJTPS2YGTCOKOWYMJRGQPNI2LHBGN6LLA2MI======"> \
-                                      Red Hat Certified Specialist in Ansible Automation \
-                                  </a></div> \
-                              <div style="padding:0;"> \
-                                  <a target="_blank" href="https://www.redhat.com/rhtapps/services/certifications/badge/verify/2H4ASSBQPCX73FHQQTCMOHBWX4AEQU3CUPSQX2KSDXT6RW46LQ3XCZJWRJNV7ILTXVE4I6VB7OTCG4U5NQYTCNA62RUWOCM34WWBUYQ="> \
-                                      Red Hat Certified Engineer \
-                                  </a></div> \
-                              <div style="padding:0;"> \
-                                  <a target="_blank" href="https://www.redhat.com/rhtapps/services/certifications/badge/verify/2H4ASSBQPCX73FHQQTCMOHBWX4AEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ="> \
-                                      Red Hat Certified System Administrator \
-                                  </a></div> \
                               <div style="padding:0;">CompTIA Security + ce</div> \
                               <div style="padding:0;">CompTIA Linux +</div> \
                           </div> \
